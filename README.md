@@ -19,4 +19,4 @@ Colección de Snippets para ahorrarse un tiempito en el parcial de Taller de Len
 
 * __Singleton__ : ```eze-single``` Genera una clase que no puede ser instanciada con el método new. 
 
-* __Singleton__ : ```eze-adapter``` Genera dos clases y un adaptador que permite usar el método de la clase vieja.
+* __Adapter__ : ```eze-adapter``` Genera dos clases y un adaptador que permite usar el método de la clase vieja.
